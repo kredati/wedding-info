@@ -8,7 +8,7 @@
 The address of the Burton family cottage is **10007 Oakhurst Road in Rose Township, MI**. (Many map programs think it’s in Holly. That’s fine.) Google, Apple, and other map applications will get you most of the way, but not all the way, there with the address alone. There will be signs in the last mile to help you find the way. Between the GPS and the signs, you should be just fine.
 
 ### More precise: Latitude and Longitude
-The easiest way to get accurate directions is to use the latitude and longitude of the driveway at the Burton property to find directions: [42°44'39.2"N 83°36'24.5"W][4].
+The easiest way to get accurate directions is to use the latitude and longitude of the driveway at the Burton property to find directions: [42°44'39.2"N 83°36'24.5"W][4]. Tap on this link and let Google Maps guide you turn-by-turn.
 
 ## Driving Directions from the Fairfield Inn and Suites
 [Click here for Google Maps directions.][5]

@@ -36,14 +36,14 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>schedule.md.md</key>
+			<key>schedule.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521854100.71219099</real>
+				<real>521856005.39707702</real>
 				<key>version</key>
 				<dict>
 					<key>425b4a0c2f021532892c166c412a5c171e42e31ca738fe691fd539e6dc5969ca</key>
-					<integer>7</integer>
+					<integer>19</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -60,7 +60,7 @@
 			<string>directions-venues.md</string>
 		</array>
 		<array>
-			<string>schedule.md.md</string>
+			<string>schedule.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -70,7 +70,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>425b4a0c2f021532892c166c412a5c171e42e31ca738fe691fd539e6dc5969ca</key>
-			<integer>18</integer>
+			<integer>20</integer>
 		</dict>
 	</dict>
 </dict>

@@ -16,14 +16,38 @@
 					<integer>21</integer>
 				</dict>
 			</dict>
-			<key>cottage-directions.md</key>
+			<key>Untitled.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521855999.42532498</real>
+				<real>521920398.46494102</real>
 				<key>version</key>
 				<dict>
 					<key>425b4a0c2f021532892c166c412a5c171e42e31ca738fe691fd539e6dc5969ca</key>
-					<integer>15</integer>
+					<integer>41</integer>
+				</dict>
+			</dict>
+			<key>cottage-directions-printable.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>521920381.72344398</real>
+				<key>lastModification</key>
+				<real>521920381.72344398</real>
+				<key>version</key>
+				<dict>
+					<key>425b4a0c2f021532892c166c412a5c171e42e31ca738fe691fd539e6dc5969ca</key>
+					<integer>39</integer>
+				</dict>
+			</dict>
+			<key>cottage-directions.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>521920398.46494597</real>
+				<key>version</key>
+				<dict>
+					<key>425b4a0c2f021532892c166c412a5c171e42e31ca738fe691fd539e6dc5969ca</key>
+					<integer>41</integer>
 				</dict>
 			</dict>
 			<key>directions-venues.md</key>
@@ -34,6 +58,16 @@
 				<dict>
 					<key>425b4a0c2f021532892c166c412a5c171e42e31ca738fe691fd539e6dc5969ca</key>
 					<integer>17</integer>
+				</dict>
+			</dict>
+			<key>schedule-printable.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>521919971.69364297</real>
+				<key>version</key>
+				<dict>
+					<key>425b4a0c2f021532892c166c412a5c171e42e31ca738fe691fd539e6dc5969ca</key>
+					<integer>25</integer>
 				</dict>
 			</dict>
 			<key>schedule.md</key>
@@ -54,13 +88,22 @@
 			<string>README.md</string>
 		</array>
 		<array>
-			<string>cottage-directions.md</string>
+			<string>cottage-directions-printable.md</string>
 		</array>
 		<array>
 			<string>directions-venues.md</string>
 		</array>
 		<array>
 			<string>schedule.md</string>
+		</array>
+		<array>
+			<string>schedule-printable.md</string>
+		</array>
+		<array>
+			<string>cottage-directions.md</string>
+		</array>
+		<array>
+			<string>Untitled.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -70,7 +113,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>425b4a0c2f021532892c166c412a5c171e42e31ca738fe691fd539e6dc5969ca</key>
-			<integer>22</integer>
+			<integer>41</integer>
 		</dict>
 	</dict>
 </dict>

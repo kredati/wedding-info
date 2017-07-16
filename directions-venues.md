@@ -34,7 +34,7 @@
 
 *Please note that the home of Stephen Burton is 15 minutes further away from the Detroit Metro airport (DTW) than the Fairfield Inn & Suites. It is approximately 65 minutes driving to DTW.*
 
-[1]:	http://github.com/kredati/wedding-info
+[1]:	https://github.com/kredati/wedding-info/blob/master/cottage-directions.md
 [2]:	https://github.com/kredati/wedding-info/blob/master/directions-venues.md#directions-to-the-fairfield-inn--suites-in-fenton
 [3]:	https://github.com/kredati/wedding-info/blob/master/directions-venues.md#directions-to-uncle-rays-dairyland
 [4]:	https://github.com/kredati/wedding-info/blob/master/directions-venues.md#directions-to-seven-lakes-state-park

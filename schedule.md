@@ -7,7 +7,8 @@ Schedule for:
 **8pm:** Ice cream social at [Uncle Ray’s Dairyland][3] in Fenton
 
 ### Saturday, July 22
-**10am:** Beach hangout at [Seven Lakes State Park][4] near Holly
+~**10am:** Beach hangout at [Seven Lakes State Park][4] near Holly~ **CANCELED due to weather**
+**10am:** Pool hangout at [Fairfield Inn & Suites in Fenton][6]
 
 **4:30pm:** Shuttle bus from Fairfield Inn & Suites departs
 
